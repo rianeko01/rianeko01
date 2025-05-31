@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Rian 👋
 
-<!--
-**rianeko01/rianeko01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Web Developer** who loves turning ideas into interactive, responsive, and efficient web applications. I specialize in building modern web solutions using **Laravel**, **Vue.js**, and **SQL databases**.
 
-Here are some ideas to get you started:
+- 🚀 Currently exploring full-stack development with Laravel + Vue.js
+- 🧠 Always learning and improving my clean code practices
+- 🛠️ Focused on building scalable and maintainable web applications
+- 🎯 Passionate about performance, security, and elegant UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+## 📈 GitHub Stats
+![Rian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rianeko01&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianeko01&layout=compact)
+
+## 🔗 Connect with Me
+📹 TikTok: *[coming soon]*
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
