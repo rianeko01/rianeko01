@@ -1,11 +1,16 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/w9M4TzF.png" alt="Welcome Banner" width="100%" />
+</p>
+
 # Hi there, I'm Rian 👋
 
 I'm a **Web Developer** who loves turning ideas into interactive, responsive, and efficient web applications. I specialize in building modern web solutions using **Laravel**, **Vue.js**, and **SQL databases**.
 
-- 🚀 Currently exploring full-stack development with Laravel + Vue.js
-- 🧠 Always learning and improving my clean code practices
-- 🛠️ Focused on building scalable and maintainable web applications
-- 🎯 Passionate about performance, security, and elegant UI
+- 🚀 Currently exploring full-stack development with Laravel + Vue.js  
+- 🧠 Always learning and improving my clean code practices  
+- 🛠️ Focused on building scalable and maintainable web applications  
+- 🎯 Passionate about performance, security, and elegant UI  
 
 ## 🧰 Tech Stack
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
@@ -25,4 +30,3 @@ I'm a **Web Developer** who loves turning ideas into interactive, responsive, an
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
