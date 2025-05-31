@@ -21,8 +21,10 @@ I'm a **Web Developer** who loves turning ideas into interactive, responsive, an
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## 📈 GitHub Stats
-![Rian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rianeko01&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianeko01&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rianeko01&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianeko01&layout=compact&theme=radical" width="48%" />
+</p>
 
 ## 🔗 Connect with Me
 📹 TikTok: *[coming soon]*
