@@ -22,8 +22,12 @@ I'm a **Web Developer** who loves turning ideas into interactive, responsive, an
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rianeko01&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianeko01&layout=compact&theme=radical" width="51%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rianeko01&show_icons=true&theme=radical" width="80%" />
+</p>
+
+## 📊 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianeko01&layout=compact&theme=radical" width="80%" />
 </p>
 
 ## 🔗 Connect with Me
