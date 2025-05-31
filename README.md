@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/w9M4TzF.png" alt="Welcome Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/rianeko01/rianeko01/main/github-header-image.png" alt="Header image" />
 </p>
 
 # Hi there, I'm Rian 👋
