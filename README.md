@@ -5,12 +5,15 @@
 
 # Hi there, I'm Rian 👋
 
-I'm a **Web Developer** who loves turning ideas into interactive, responsive, and efficient web applications. I specialize in building modern web solutions using **Laravel**, **Vue.js**, and **SQL databases**.
+I'm a **Web Developer** who loves turning ideas into interactive, responsive, and efficient web applications.  
+I specialize in building modern web solutions using **Laravel**, **Vue.js**, and **SQL databases**.
 
 - 🚀 Currently exploring full-stack development with Laravel + Vue.js  
 - 🧠 Always learning and improving my clean code practices  
 - 🛠️ Focused on building scalable and maintainable web applications  
 - 🎯 Passionate about performance, security, and elegant UI  
+
+---
 
 ## 🧰 Tech Stack
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
@@ -20,18 +23,49 @@ I'm a **Web Developer** who loves turning ideas into interactive, responsive, an
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+---
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rianeko01&show_icons=true&theme=radical&cache_seconds=1800" width="80%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rianeko01&theme=radical" width="80%" />
 </p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rianeko01&theme=radical&row=1&no-frame=true&margin-w=15" />
+</p>
+
+---
 
 ## 📊 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianeko01&layout=compact&theme=radical&cache_seconds=1800" width="80%" />
 </p>
 
+---
+
+## 🚀 Current Learning Path
+- 🔹 Building REST APIs with **Laravel**  
+- 🔹 Advanced **Vue 3 + Pinia** for state management  
+- 🔹 Optimizing **SQL queries & indexing**  
+- 🔹 Exploring **Docker** for development workflow  
+
+---
+
+## 📂 Featured Projects
+Even though most of my repos are private, here are some highlights of what I’ve been working on:
+- 🔒 **Inventory Management System** → (Private) PHP & Laravel for a motorcycle workshop  
+- 🔒 **CPNS Test Platform** → (Private) Full-stack with Laravel & Vue  
+- 🔒 **Travel Marketplace App** → (Private) React Native + Expo  
+
+---
+
 ## 🔗 Connect with Me
-📹 TikTok: *[coming soon]*
+📹 TikTok: *[coming soon]*  
 
 ---
 
