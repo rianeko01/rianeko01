@@ -27,40 +27,17 @@ I specialize in building modern web solutions using **Laravel**, **Vue.js**, and
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rianeko01&show_icons=true&theme=radical&cache_seconds=1800" width="80%" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rianeko01&theme=radical" width="80%" />
 </p>
 
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rianeko01&theme=radical&row=1&no-frame=true&margin-w=15" />
-</p>
-
----
-
-## 📊 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianeko01&layout=compact&theme=radical&cache_seconds=1800" width="80%" />
-</p>
 
 ---
 
 ## 🚀 Current Learning Path
 - 🔹 Building REST APIs with **Laravel**  
-- 🔹 Advanced **Vue 3 + Pinia** for state management  
+- 🔹 Advanced **Vue 3 + Vuex** for state management  
 - 🔹 Optimizing **SQL queries & indexing**  
-- 🔹 Exploring **Docker** for development workflow  
-
----
-
-## 📂 Featured Projects
-Even though most of my repos are private, here are some highlights of what I’ve been working on:
-- 🔒 **Inventory Management System** → (Private) PHP & Laravel for a motorcycle workshop  
-- 🔒 **CPNS Test Platform** → (Private) Full-stack with Laravel & Vue  
-- 🔒 **Travel Marketplace App** → (Private) React Native + Expo  
+- 🔹 Exploring **NextJs** for development front end website  
 
 ---
 
