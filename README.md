@@ -35,7 +35,7 @@ I specialize in building modern web solutions using **Laravel**, **Vue.js**, and
 
 ## 🚀 Current Learning Path
 - 🔹 Building REST APIs with **Laravel**  
-- 🔹 Advanced **Vue 3 + Vuex** for state management  
+- 🔹 Beginner **Vue 3 + Vuex** for state management  
 - 🔹 Optimizing **SQL queries & indexing**  
 - 🔹 Exploring **NextJs** for development front end website  
 
